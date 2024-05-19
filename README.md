@@ -12,9 +12,13 @@ This Flutter application allows users to create a network topology by dragging a
 
 ### Project Structure
 ```
-├── lib
+├── lib/
 │   ├── main.dart
-├── assets
+│   ├── api/
+│   ├── data/
+│   ├── utils/
+│   ├── widgets/
+├── assets/
 │   └── images
 │       ├── switch.png
 │       ├── router.png
